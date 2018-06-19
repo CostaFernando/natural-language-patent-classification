@@ -1,4 +1,4 @@
-# natural-language-patent-classification
+# Natural Language Patent Classification
 Classificação de resumos de patentes sobre o bioplástico PLA utilizando o Natural Language Classifier da IBM Watson. 
 
 O desafio abordado neste projeto é a classificação de grande quantidade de patentes sobre o biolplástico Polylactic Acid (PLA) em três categorias: produto, aplicação e processo de fabricação do polímero.
